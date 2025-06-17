@@ -1,8 +1,10 @@
 # Le-Chisoffre
 
- chiffre riff with trackpad, mouseball or rotary support
+chiffre riff with trackpad, mouseball or rotary support, now with hotswap and no stabs
 
- ## Layout
+original readme preserved below
+
+## Layout
 
 ![](https://github.com/calvin-mcd/Le-Chisoffre/blob/main/Images/KLE.png)
 
@@ -23,7 +25,7 @@ Please note that this project is a work in progress with no guarantees of a work
 This project is released under the GPL v3 License. Please refer to the LICENCE file.
 
 ## Credits
-	
+
 As always big thanks to the many people who helped me and inspired this board!
 
-Any questions, contact Calvin0563 on Discord. 
+Any questions, contact Calvin0563 on Discord.
