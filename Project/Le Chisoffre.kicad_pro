@@ -116,30 +116,6 @@
           ""
         ],
         [
-          "hole_clearance|176947500|116097323|bd553ddf-04e1-4e83-8f80-0a243f21ba54|9de34fd1-d3bf-438f-9740-10abaa7ce2eb",
-          ""
-        ],
-        [
-          "hole_clearance|180471445|117049868|5d3a76e5-3a11-4fe6-b866-3b8d35e9387a|eef9e52c-a852-43c3-b175-b36ab02c9472",
-          ""
-        ],
-        [
-          "hole_clearance|181101940|116969955|bd553ddf-04e1-4e83-8f80-0a243f21ba54|8a86c77f-abb9-472c-a465-c2098ccac81e",
-          ""
-        ],
-        [
-          "hole_clearance|184625885|117922500|e9ce62b6-1607-428a-b53c-75da031aaae2|eef9e52c-a852-43c3-b175-b36ab02c9472",
-          ""
-        ],
-        [
-          "hole_to_hole|120580213|117038224|210565f4-163a-4b70-a5d0-b1df50029e8a|76f165d9-1d9b-404d-abcb-19319d19d26d",
-          ""
-        ],
-        [
-          "hole_to_hole|180471445|117049868|5d3a76e5-3a11-4fe6-b866-3b8d35e9387a|8a86c77f-abb9-472c-a465-c2098ccac81e",
-          ""
-        ],
-        [
           "solder_mask_bridge|176947500|116097323|9de34fd1-d3bf-438f-9740-10abaa7ce2eb|bd553ddf-04e1-4e83-8f80-0a243f21ba54",
           ""
         ],
