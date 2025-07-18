@@ -64,39 +64,7 @@
           ""
         ],
         [
-          "copper_edge_clearance|155062501|85004438|22036684-af79-48a8-8600-ed41ac44f91e|166c9c54-5db0-4833-b643-236c885395d2",
-          ""
-        ],
-        [
-          "copper_edge_clearance|155062501|86784438|22036684-af79-48a8-8600-ed41ac44f91e|bfb0e580-7dbd-4427-8cf0-c626567349c0",
-          ""
-        ],
-        [
-          "copper_edge_clearance|155062501|88564438|22036684-af79-48a8-8600-ed41ac44f91e|3c1e9328-c5ca-4d87-8441-d57dca18d2a3",
-          ""
-        ],
-        [
-          "copper_edge_clearance|155062501|90344438|22036684-af79-48a8-8600-ed41ac44f91e|a76b6149-e562-49c5-af8e-aef894380b45",
-          ""
-        ],
-        [
-          "copper_edge_clearance|155062501|92124438|22036684-af79-48a8-8600-ed41ac44f91e|cc9a3f8e-4e60-4fc2-b141-22c4c9815cee",
-          ""
-        ],
-        [
-          "copper_edge_clearance|155062501|93904438|22036684-af79-48a8-8600-ed41ac44f91e|54096d55-aaae-46b3-bb27-c1d8e17d2e43",
-          ""
-        ],
-        [
-          "copper_edge_clearance|155062501|95684438|22036684-af79-48a8-8600-ed41ac44f91e|88697c7b-59af-405d-9fbb-e4dd0a40b419",
-          ""
-        ],
-        [
           "copper_edge_clearance|155132500|32705000|bea9c77b-f3c5-4bab-90a7-7c07d775b299|a4f2a8fb-ab36-494f-9f58-16bdb7d848f7",
-          ""
-        ],
-        [
-          "copper_edge_clearance|155550243|82624438|22036684-af79-48a8-8600-ed41ac44f91e|807db93a-582c-481e-b4b7-787f2d8e32a5",
           ""
         ],
         [
@@ -113,14 +81,6 @@
         ],
         [
           "courtyards_overlap|177406532|110518645|b793883c-5aee-4ec6-8c4e-e731a62dad31|e9090918-9841-420e-9e4e-eb0df983045b",
-          ""
-        ],
-        [
-          "solder_mask_bridge|176947500|116097323|9de34fd1-d3bf-438f-9740-10abaa7ce2eb|bd553ddf-04e1-4e83-8f80-0a243f21ba54",
-          ""
-        ],
-        [
-          "solder_mask_bridge|184625885|117922500|e9ce62b6-1607-428a-b53c-75da031aaae2|eef9e52c-a852-43c3-b175-b36ab02c9472",
           ""
         ]
       ],
