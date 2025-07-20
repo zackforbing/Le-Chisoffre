@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 1.1,
+          "width": 1.1
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -214,6 +214,7 @@
       ],
       "track_widths": [
         0.0,
+        0.195,
         0.2,
         0.25,
         0.38
@@ -493,7 +494,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Le Chisoffre.kicad_pro",
+    "filename": "Le Chisoffre-mcu.kicad_pro",
     "version": 3
   },
   "net_settings": {

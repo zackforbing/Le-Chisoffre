@@ -1,4 +1,4 @@
-27415038656318002
+27418544481508166
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -109842,6 +109842,20 @@ diode_mask
 
 0
 2
+2
+zackforbing
+flipped mx hs 1.25u vert
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+zackforbing
+sw mx hs back 1.5 vert
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
 2
 zackforbing
 switch_choc_v1_v2

@@ -18,11 +18,11 @@
     "selection_filter": {
       "dimensions": false,
       "footprints": false,
-      "graphics": true,
+      "graphics": false,
       "keepouts": false,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": false,
-      "pads": false,
+      "pads": true,
       "text": false,
       "tracks": true,
       "vias": true,
@@ -47,8 +47,8 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_00000000_02800005",
-    "zone_display_mode": 1
+    "visible_layers": "00000000_00000000_00000000_00000005",
+    "zone_display_mode": 0
   },
   "git": {
     "repo_password": "",
@@ -57,7 +57,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Le Chisoffre.kicad_prl",
+    "filename": "Le Chisoffre-mcu.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
