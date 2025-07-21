@@ -5976,6 +5976,12 @@
 		(uuid "059b213f-281c-402a-a295-f611fce5b5b4")
 	)
 	(junction
+		(at 207.01 36.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "05f3deaa-6e15-4ec7-a718-996aca3251a1")
+	)
+	(junction
 		(at 261.62 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6174,6 +6180,12 @@
 		(uuid "457f7f45-3fa8-4271-adee-e4900702c5b2")
 	)
 	(junction
+		(at 212.09 36.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "46e9447d-e448-4a2e-a9e8-0ff07b6307aa")
+	)
+	(junction
 		(at 140.97 41.91)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6244,6 +6256,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "66d77aca-d1d9-444f-97e0-a46a57beec39")
+	)
+	(junction
+		(at 218.44 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "67de6a1b-00ae-4f44-85da-8bcefccb30be")
 	)
 	(junction
 		(at 184.15 38.1)
@@ -6376,12 +6394,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ae20a7e8-b206-4691-a234-f8979e7bd399")
-	)
-	(junction
-		(at 215.9 38.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b573eb5d-00e1-4825-85a0-0a09d31a2510")
 	)
 	(junction
 		(at 92.075 148.59)
@@ -6571,7 +6583,7 @@
 	)
 	(no_connect
 		(at 148.59 132.08)
-		(uuid "b600cf97-7fbc-41f8-becb-612f25d56a8c")
+		(uuid "d1295218-6bde-40e4-86ac-e06879fbaf74")
 	)
 	(wire
 		(pts
@@ -6745,16 +6757,6 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 41.91) (xy 215.9 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12b5aaa4-a22c-4164-9e76-0a784bdc932a")
-	)
-	(wire
-		(pts
 			(xy 248.92 55.88) (xy 248.92 69.85)
 		)
 		(stroke
@@ -6822,16 +6824,6 @@
 			(type default)
 		)
 		(uuid "17233db6-8207-48f2-9e7e-d4eb2a0adea0")
-	)
-	(wire
-		(pts
-			(xy 215.9 38.1) (xy 228.6 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17cb5828-e776-4594-8449-bd9353c46bd6")
 	)
 	(wire
 		(pts
@@ -7215,6 +7207,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 44.45) (xy 209.55 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cac7086-d934-4fb3-a3c5-bf6840f0b4fb")
+	)
+	(wire
+		(pts
 			(xy 261.62 27.94) (xy 261.62 41.91)
 		)
 		(stroke
@@ -7222,6 +7224,16 @@
 			(type default)
 		)
 		(uuid "3cbd07a4-2e57-4a6f-a2c5-87720a0ec003")
+	)
+	(wire
+		(pts
+			(xy 218.44 38.1) (xy 228.6 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d9b3101-ca7c-4868-b9ea-53ea1be89072")
 	)
 	(wire
 		(pts
@@ -7375,6 +7387,16 @@
 	)
 	(wire
 		(pts
+			(xy 213.36 33.02) (xy 213.36 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bea42d0-f60d-4fec-9296-71eff676fd47")
+	)
+	(wire
+		(pts
 			(xy 27.94 148.59) (xy 24.13 148.59)
 		)
 		(stroke
@@ -7495,6 +7517,16 @@
 	)
 	(wire
 		(pts
+			(xy 207.01 41.91) (xy 212.09 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55bcac73-ccf1-4375-819e-779e922a6aa7")
+	)
+	(wire
+		(pts
 			(xy 246.38 80.01) (xy 246.38 93.98)
 		)
 		(stroke
@@ -7602,6 +7634,16 @@
 			(type default)
 		)
 		(uuid "64e1c87d-fd6c-47c1-abab-1c967e3fc8b8")
+	)
+	(wire
+		(pts
+			(xy 209.55 67.31) (xy 209.55 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65b4f728-bad9-433d-8621-900fe0d82273")
 	)
 	(wire
 		(pts
@@ -7792,6 +7834,16 @@
 			(type default)
 		)
 		(uuid "761d993a-48a8-4d01-9ba4-2e67404c0f06")
+	)
+	(wire
+		(pts
+			(xy 218.44 33.02) (xy 213.36 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "767905cd-bd41-4739-98db-71261c410c89")
 	)
 	(wire
 		(pts
@@ -8155,6 +8207,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 36.83) (xy 207.01 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99117303-9947-4799-8f76-21fc886c4333")
+	)
+	(wire
+		(pts
 			(xy 266.7 38.1) (xy 279.4 38.1)
 		)
 		(stroke
@@ -8465,7 +8527,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 38.1) (xy 215.9 38.1)
+			(xy 196.85 38.1) (xy 218.44 38.1)
 		)
 		(stroke
 			(width 0)
@@ -8522,16 +8584,6 @@
 			(type default)
 		)
 		(uuid "b68ee18a-b99c-4c53-8bc2-6bf890229769")
-	)
-	(wire
-		(pts
-			(xy 212.09 41.91) (xy 215.9 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b69ac394-e244-400e-af9a-ce95f6a21bb7")
 	)
 	(wire
 		(pts
@@ -8642,6 +8694,16 @@
 			(type default)
 		)
 		(uuid "c21520ef-9a28-46aa-bf12-bf15cebe05b6")
+	)
+	(wire
+		(pts
+			(xy 213.36 36.83) (xy 212.09 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3e3c870-380f-428d-94b1-8060ad58948e")
 	)
 	(wire
 		(pts
@@ -8762,6 +8824,16 @@
 			(type default)
 		)
 		(uuid "cc3b3490-7228-4448-a546-ac1b066747c3")
+	)
+	(wire
+		(pts
+			(xy 212.09 44.45) (xy 209.55 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc8686a4-df09-4293-8507-f07482adf026")
 	)
 	(wire
 		(pts
@@ -9292,6 +9364,26 @@
 			(type default)
 		)
 		(uuid "fcdf10a2-9fe2-42f6-a497-1206ed4ce6e7")
+	)
+	(wire
+		(pts
+			(xy 212.09 36.83) (xy 212.09 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd30655a-5ee6-4915-a874-f54515994db7")
+	)
+	(wire
+		(pts
+			(xy 207.01 44.45) (xy 207.01 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd72847a-6d71-426d-9c00-8390c84fada0")
 	)
 	(wire
 		(pts
@@ -10607,6 +10699,28 @@
 			)
 		)
 	)
+	(global_label "rot_b"
+		(shape input)
+		(at 212.09 59.69 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "644f6b47-d4ba-4b2d-b813-3000d2e68c9e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 212.09 67.4527 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "COL2"
 		(shape input)
 		(at 166.37 21.59 90)
@@ -11109,6 +11223,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "rot_a"
+		(shape input)
+		(at 207.01 59.69 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cbf360b1-ed7a-431d-811c-7704d55d93ac")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 207.01 67.4527 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -12879,6 +13015,71 @@
 			(project "Le Chisoffre"
 				(path "/1b359c20-7ce0-4923-93db-3e704c7c3bfa"
 					(reference "MX18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 209.55 67.31 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1d0f33cb-8cab-4e3d-88d5-de85cc3c2d7d")
+		(property "Reference" "#PWR044"
+			(at 209.55 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 209.55 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 209.55 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 209.55 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 209.55 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "42721752-a322-4971-a160-8c91a8d86d22")
+		)
+		(instances
+			(project "Le Chisoffre"
+				(path "/1b359c20-7ce0-4923-93db-3e704c7c3bfa"
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -17142,7 +17343,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Small")
-		(at 212.09 39.37 90)
+		(at 218.44 35.56 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17150,7 +17351,7 @@
 		(dnp no)
 		(uuid "91726542-9a14-4edc-9442-ad537013c004")
 		(property "Reference" "D41"
-			(at 213.36 38.1 90)
+			(at 219.71 34.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17159,7 +17360,7 @@
 			)
 		)
 		(property "Value" "D_Small"
-			(at 214.63 40.6399 90)
+			(at 220.98 36.8299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17169,7 +17370,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123F"
-			(at 212.09 39.37 90)
+			(at 218.44 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17178,7 +17379,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 212.09 39.37 90)
+			(at 218.44 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17187,7 +17388,7 @@
 			)
 		)
 		(property "Description" "Diode, small symbol"
-			(at 212.09 39.37 0)
+			(at 218.44 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17196,7 +17397,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 212.09 39.37 0)
+			(at 218.44 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17205,7 +17406,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 212.09 39.37 0)
+			(at 218.44 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22269,6 +22470,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:RotaryEncoder_Switch")
+		(at 209.55 52.07 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f339e145-f9c0-4ded-b3cf-56895df72d55")
+		(property "Reference" "SW3"
+			(at 203.2 53.3401 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "RotaryEncoder_Switch"
+			(at 203.2 50.8001 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-various:ROT_Alps_EC11E-Switch"
+			(at 205.486 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 202.946 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
+			(at 209.55 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "C"
+			(uuid "0dea2361-b83e-4de9-868a-273015a5544d")
+		)
+		(pin "A"
+			(uuid "3cb8ef82-5d6b-4141-8e62-99e6513b33d9")
+		)
+		(pin "S2"
+			(uuid "2901369f-c076-4aef-a56b-55b2c5a7143b")
+		)
+		(pin "S1"
+			(uuid "46873472-0350-42fa-a5df-ba13eec32f4d")
+		)
+		(pin "B"
+			(uuid "c5cc34df-a36b-4c96-a4dd-1c76852076a9")
+		)
+		(instances
+			(project "Le Chisoffre"
+				(path "/1b359c20-7ce0-4923-93db-3e704c7c3bfa"
+					(reference "SW3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D_Small")
 		(at 254 49.53 90)
 		(unit 1)
@@ -22805,7 +23085,7 @@
 			)
 		)
 		(instances
-			(project "Le Chisoffre-mcu"
+			(project "Le Chisoffre"
 				(path "/1b359c20-7ce0-4923-93db-3e704c7c3bfa"
 					(page "2")
 				)
