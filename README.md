@@ -6,10 +6,10 @@ don't get mad at me if these don't work, they are untested. I have zero idea wha
 
 7/21/25 case probably complete. still have to prototype though. and export/upload the files. but hey pretty pictures
 
-![case front](</images/case front.png>)
-![case back](</images/case back.png>)
-![pcb front](</images/pcb front.png>)
-![pcb back](</images/pcb back.png>)
+![case front](</Images/case front.png>)
+![case back](</Images/case back.png>)
+![pcb front](</Images/pcb front.png>)
+![pcb back](</Images/pcb back.png>)
 
 original readme preserved below
 
