@@ -1,6 +1,8 @@
 # Le-Chisoffre
 
-chiffre riff with trackpad, mouseball or rotary support, now with hotswap and no stabs
+chiff riff with trackpad, mouseball or rotary support, now with hotswap
+
+don't get mad at me if these don't work, they are untested. I have zero idea what I'm doing, and your yolo to jlc is not my problem
 
 original readme preserved below
 

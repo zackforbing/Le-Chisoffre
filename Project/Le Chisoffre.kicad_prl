@@ -17,7 +17,7 @@
     },
     "selection_filter": {
       "dimensions": false,
-      "footprints": false,
+      "footprints": true,
       "graphics": true,
       "keepouts": false,
       "lockedItems": true,
@@ -48,7 +48,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_00000000_02000005",
+    "visible_layers": "00000000_00000000_00000000_02820005",
     "zone_display_mode": 0
   },
   "git": {
