@@ -1,4 +1,4 @@
-27418544650357271
+27423818333945653
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -109704,6 +109704,13 @@ button, tactile, 6mm
 9
 2
 keyswitches
+D_SOD-123 edge cut
+Diode SOD-123
+diode, SOD-123
+0
+0
+0
+keyswitches
 SW_choc_v1_HSxSolder_1u_filets_MBK_blk fixxed flipped solder pads
 Hotswap footprint for Kailh Choc style switches
 
@@ -109717,6 +109724,13 @@ Hotswap footprint for Kailh Choc style switches
 0
 6
 2
+keyswitches
+SW_choc_v1v2_HSxSolder no back silk edge cuts only
+Hotswap footprint for Kailh Choc style switches
+
+0
+0
+0
 keyswitches
 SW_choc_v1v2_HSxSolder_1u_filets_MBK_blk fixxed flipped solder pads
 Hotswap footprint for Kailh Choc style switches
@@ -109845,6 +109859,13 @@ diode_mask
 2
 zackforbing
 flipped mx hs 1.25u vert
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+zackforbing
+flipped mx hs 1.25u vert no silk
 Footprint for Cherry MX style switches with Kailh hotswap socket
 
 0

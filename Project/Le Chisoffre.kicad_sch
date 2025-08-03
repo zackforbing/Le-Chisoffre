@@ -6162,6 +6162,12 @@
 		(uuid "3512d28f-2395-4912-ae28-7923dbd833fa")
 	)
 	(junction
+		(at 218.44 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3cc5a2df-fd2a-466e-8f9d-309bf1309a74")
+	)
+	(junction
 		(at 24.13 156.21)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6178,12 +6184,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "457f7f45-3fa8-4271-adee-e4900702c5b2")
-	)
-	(junction
-		(at 212.09 36.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "46e9447d-e448-4a2e-a9e8-0ff07b6307aa")
 	)
 	(junction
 		(at 140.97 41.91)
@@ -7267,6 +7267,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 52.07) (xy 228.6 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3f0aab6a-88e2-41e6-8f12-55640f71dfc5")
+	)
+	(wire
+		(pts
 			(xy 140.97 186.69) (xy 138.43 186.69)
 		)
 		(stroke
@@ -7517,16 +7527,6 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 41.91) (xy 212.09 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55bcac73-ccf1-4375-819e-779e922a6aa7")
-	)
-	(wire
-		(pts
 			(xy 246.38 80.01) (xy 246.38 93.98)
 		)
 		(stroke
@@ -7554,6 +7554,16 @@
 			(type default)
 		)
 		(uuid "5a4088af-527e-4332-9305-130049ffc336")
+	)
+	(wire
+		(pts
+			(xy 218.44 43.18) (xy 207.01 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5be50daa-44e0-4020-b7a3-999841c7adc6")
 	)
 	(wire
 		(pts
@@ -8447,6 +8457,16 @@
 	)
 	(wire
 		(pts
+			(xy 207.01 43.18) (xy 207.01 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac2a1ffb-e429-4e93-8d03-eec390bf8798")
+	)
+	(wire
+		(pts
 			(xy 254 80.01) (xy 266.7 80.01)
 		)
 		(stroke
@@ -8567,7 +8587,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 52.07) (xy 228.6 52.07)
+			(xy 196.85 52.07) (xy 218.44 52.07)
 		)
 		(stroke
 			(width 0)
@@ -9047,6 +9067,16 @@
 	)
 	(wire
 		(pts
+			(xy 218.44 46.99) (xy 218.44 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6ca0a8d-25ba-459a-95af-d3d0f948ef32")
+	)
+	(wire
+		(pts
 			(xy 162.56 105.41) (xy 162.56 116.84)
 		)
 		(stroke
@@ -9364,26 +9394,6 @@
 			(type default)
 		)
 		(uuid "fcdf10a2-9fe2-42f6-a497-1206ed4ce6e7")
-	)
-	(wire
-		(pts
-			(xy 212.09 36.83) (xy 212.09 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd30655a-5ee6-4915-a874-f54515994db7")
-	)
-	(wire
-		(pts
-			(xy 207.01 44.45) (xy 207.01 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd72847a-6d71-426d-9c00-8390c84fada0")
 	)
 	(wire
 		(pts
@@ -17350,7 +17360,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "91726542-9a14-4edc-9442-ad537013c004")
-		(property "Reference" "D41"
+		(property "Reference" "D33"
 			(at 219.71 34.29 90)
 			(effects
 				(font
@@ -17423,7 +17433,7 @@
 		(instances
 			(project ""
 				(path "/1b359c20-7ce0-4923-93db-3e704c7c3bfa"
-					(reference "D41")
+					(reference "D33")
 					(unit 1)
 				)
 			)
@@ -20035,6 +20045,94 @@
 			(project "Le Chisoffre"
 				(path "/1b359c20-7ce0-4923-93db-3e704c7c3bfa"
 					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Small")
+		(at 218.44 49.53 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bf07b7fa-9303-4692-8bac-7004512af22c")
+		(property "Reference" "D41"
+			(at 219.71 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D_Small"
+			(at 220.98 50.7999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123F"
+			(at 218.44 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 218.44 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode, small symbol"
+			(at 218.44 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 218.44 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 218.44 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ac1762e6-0841-40a1-902e-e1dea519776e")
+		)
+		(pin "2"
+			(uuid "0abdeca9-c472-4544-b894-f6e72b9e0061")
+		)
+		(instances
+			(project "Le Chisoffre"
+				(path "/1b359c20-7ce0-4923-93db-3e704c7c3bfa"
+					(reference "D41")
 					(unit 1)
 				)
 			)
